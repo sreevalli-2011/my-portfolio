@@ -1,9 +1,9 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, {useEffect, useRef } from 'react';
 import './style.css'; 
-import bannerImage from '../assets/images/banner.jpg';
+
 import brushImage from '../assets/images/brush-a.png';
 import Typed from 'typed.js';  
-import { FaFacebook, FaTwitter, FaLinkedin, FaGithub, FaBehance } from 'react-icons/fa';
+import { FaFacebook,  FaLinkedin, FaGithub, FaBehance } from 'react-icons/fa';
 
 {/*const MiddleComponent = () => {
   const words = ["Developer", "Designer", "Freelancer"];

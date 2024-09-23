@@ -3,7 +3,7 @@ import React from 'react';
 import NavBar from './NavBar';
 import MiddleComponent from './MiddleComponent';
 
-import SocialIcons from './Social-Icons';
+
 
 const Home = () => {
   return (

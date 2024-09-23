@@ -11,7 +11,7 @@ import Resume from './components/Resume';
 import PhotoshopWorks from './components/PhotoshopWorks';
 import Contact from './components/Contact';
 import Projects from './components/Projects';
-import { Ionicons } from '@ionic/react';
+
 
 
 
