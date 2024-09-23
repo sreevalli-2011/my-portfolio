@@ -19,6 +19,7 @@ const Projects = () => {
     { title: 'Movies', description: 'html4,css3,javascript,jquery,bootstrap4,phpand mysql', link: 'https://movies-sfl.netlify.app/' },
     { title: 'Zapc', description: 'html4,css3,javascript,jquery,boottsrap4,phpand mysql', link: 'https://movies-sfl.netlify.app/' },
     { title: 'todo', description: 'html4,css3,javascript,jquery,boottsrap4,Reactjs', link: 'https://github.com/sreevalli-2011/todo-react/upload' },
+    { title: 'my-portfolio', description: 'html4,css3,javascript,jquery,boottsrap4,Reactjs', link: 'https://github.com/sreevalli-2011/my-portfolio/upload' },
   ];
 
   return (
